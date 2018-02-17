@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+"Error" = "Something Went wrong!";
+"Unreachable" = "There's a problem with your network, Please try again later!"
