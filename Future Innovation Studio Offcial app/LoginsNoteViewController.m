@@ -52,7 +52,7 @@
     //CONFIGURE FTP SERVICE
     host = @"ftp.fistudio.net";
     username = @"fistudionet";
-    password = @"Gyzrw@520";
+    password = @"gg";
     //read file
    /* NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *documentsDirectory = [paths objectAtIndex:0];
